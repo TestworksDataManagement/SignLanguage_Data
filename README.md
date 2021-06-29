@@ -24,11 +24,11 @@ Specification
 
 Examples
 ---------------
-|Studio <br><span style="font-weight:normal">On set with a blue screen<br>background and 5 cameras.</span>| <img src="Sample Data\sl_image1.jpg" width="225px"></img> |<img src="Sample Data\sl_image2.jpg" width="225px">|
+|Studio <br><span style="font-weight:normal">On set with a blue screen<br>background and 5 cameras.</span>| <img src="Sample Data\sl_image1.jpg" width="150px"></img>| <img src="Sample Data\sl_image2.jpg" width="150px">|
 |:---|:---:|:---:|
-|**Virtual**<br>Avatar videos created through 3D rendering.| <img src="Sample Data\sl_image3.png" width="225px"> | <img src="Sample Data\sl_image4.png" width="225px"> |
-|**Mobile**<br>Video shot by mobile phone of each video provider through crowdsourcing| <img src="Sample Data\sl_image5.jpg" width="225px">|<img src="Sample Data\sl_image6.jpg" width="225px">
-|Sample data|6 videos and annotation file(2 studio, 2 virtual, 2 Mobile)
+|**Virtual**<br>Avatar videos created through 3D rendering.| <img src="Sample Data\sl_image3.png" width="150px"> | <img src="Sample Data\sl_image4.png" width="150px"> |
+|**Mobile**<br>Video shot by mobile phone of each video provider through crowdsourcing| <img src="Sample Data\sl_image5.jpg" width="150px">|<img src="Sample Data\sl_image6.jpg" width="150px">
+|Sample data|6 videos and annotation file|(2 studio, 2 virtual, 2 Mobile)
 
 Contact TestWorks
 -----------------
