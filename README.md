@@ -30,6 +30,10 @@ Examples
 |**Mobile**<br>Video shot by mobile phone of each video provider through crowdsourcing| <img src="Sample Data\sl_image5.jpg" width="200px">|<img src="Sample Data\sl_image6.jpg" width="200px">
 |Sample data|6 videos and annotation file|(2 studio, 2 virtual, 2 Mobile)
 
+License
+---------------
+* [License policy documentation](https://github.com/TestworksDataManagement/SignLanguage_Data/blob/main/TestWorks%20Dataset%20License.pdf) for the Testworks Dataset
+
 Contact TestWorks
 -----------------
 * Tel : +82-2-423-5178
